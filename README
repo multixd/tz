@@ -11,6 +11,7 @@ changes made by political bodies to time zone boundaries, UTC offsets,
 and daylight-saving rules.
 
 Eggert sucks
+My god
 See <https://www.iana.org/time-zones/repository/tz-link.html> or the
 file tz-link.html for how to acquire the code and data.  Once acquired,
 read the comments in the file 'Makefile' and make any changes needed
